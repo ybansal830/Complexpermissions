@@ -1,0 +1,2 @@
+rootProject.name = "Complexpermissions"
+include ':app'
